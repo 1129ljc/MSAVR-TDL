@@ -37,8 +37,8 @@ cd preprocess
 python preprocess_audio.py
 ```
 Extract lip movements from the speaking videos. You need 
-[shape_predictor_68_face_landmarks.dat](https://huggingface.co/1129ljc/MSAVR-TDL/tree/main/AV-HuBERT/shape_predictor_68_face_landmarks.dat)
-and [20words_mean_face.npy](https://huggingface.co/1129ljc/MSAVR-TDL/tree/main/AV-HuBERT/20words_mean_face.npy).
+[shape_predictor_68_face_landmarks.dat](https://huggingface.co/1129ljc/MSAVR-TDL/tree/main/AV-HuBERT/)
+and [20words_mean_face.npy](https://huggingface.co/1129ljc/MSAVR-TDL/tree/main/AV-HuBERT/).
 ```bash
 cd preprocess
 python preprocess_video.py
