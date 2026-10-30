@@ -1,6 +1,6 @@
 # Exposing Speech Coupling Collapse : Multi-Scale Audio-Visual Reconstruction for Temporal Deepfake Localization
 
-[*Weight:https://huggingface.co/1129ljc/MSAVR-TDL/tree/main*](https://huggingface.co/1129ljc/MSAVR-TDL/tree/main) 
+[Weight:https://huggingface.co/1129ljc/MSAVR-TDL/tree/main](https://huggingface.co/1129ljc/MSAVR-TDL/tree/main) 
 
 > Temporal deepfake localization aims to localize fake temporal segments. 
 > Current detectors directly adopt compressed audio-visual embeddings extracted from upstream pre-trained models, lacking an interpretable account of why anomalous representations emerge in temporal deepfake segments. 
